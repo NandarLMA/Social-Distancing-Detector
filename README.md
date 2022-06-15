@@ -9,7 +9,7 @@ Algorithm:
   2) Compute Pairwise Distances Between Centroids of detected objects
   3) Check distance matrix whether they follow social distancing rule or not
   4) Change bounding box color according to violation 
-  5) Write to output video file
+  5) Write output video file
 
 Links:
 
