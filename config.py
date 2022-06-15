@@ -1,0 +1,9 @@
+MODEL_PATH = 'yolo-coco'
+VIDEO_PATH = './data/test_video.mp4'
+SIZE_FRAME = 600
+MIN_CONF = 0.3
+NMS_THRESH = 0.3
+USE_GPU = False
+MIN_DISTANCE = 110
+COLOR_RED = (0, 0, 255)
+COLOR_GREEN = (0, 255, 0)
