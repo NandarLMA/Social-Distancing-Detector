@@ -10,3 +10,7 @@ Algorithm:
   3) Check distance matrix whether they follow social distancing rule or not
   4) Change bounding box color according to violation 
   5) Write to output video file
+
+Links:
+
+The Sparks Foundation : https://internship.thesparksfoundation.info/ 
