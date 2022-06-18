@@ -1,14 +1,14 @@
 # Social-Distancing-Detector
    Social Distancing Detection using Deep Learning
-
-Abstract:
-  This is one of the tasks from the Sparks Foundation's virtual function IOT and computer vision intern.
+   
+Background: 
+  One of the tasks for Computer Vision Intership from the Sparks Foundation.
   
 Algorithm:
   1) Detect people from the frame using YOLO v3
   2) Compute Pairwise Distances Between Centroids of detected objects
   3) Check distance matrix whether they follow social distancing rule or not
-  4) Change bounding box color according to violation 
+  4) Change bounding box color if it violates the rule
   5) Write output video file
 
 Links:
