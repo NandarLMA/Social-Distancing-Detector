@@ -2,7 +2,7 @@
    Social Distancing Detection using Deep Learning
    
 Background: 
-  One of the tasks for Computer Vision Intership from the Sparks Foundation.
+      One of the tasks for Computer Vision Intership from the Sparks Foundation.
   
 Algorithm:
   1) Detect people from the frame using YOLO v3
