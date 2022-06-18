@@ -1,7 +1,7 @@
 # Social-Distancing-Detector
-Social Distancing Detection using Deep Learning to evaluate the distance between people
+    Social Distancing Detection using Deep Learning
 
-Abstract:
+#Abstract:
   This is one of the tasks from the Sparks Foundation's virtual function IOT and computer vision intern.
   
 Algorithm:
